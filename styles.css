@@ -1,23 +1,16 @@
-/* your code */
+.stats {
+	border-radius:20px;
+	background-color: lightgray;
+	align-content: center;
+}
+
+.headr{
+	background-color: lightblue;
+	border-radius: 10px;
+}
 table {
-  border-collapse: collapse;
   width: 100%;
-}
-
-th, td {
-  padding: 8px;
-  text-align: center;
   border: 1px solid black;
-}
-
-thead {
-  background-color: #f2f2f2;
-}
-
-tr:nth-child(even) {
-  background-color: #f2f2f2;
-}
-
-td:first-child {
-  font-weight: bold;
+  border-radius: 5px;
+	
 }
